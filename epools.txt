@@ -1,0 +1,4 @@
+# WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
+
+POOL: coinotron.com:3344, WALLET: Hudro.zeon, PSW: x, ESM: 2, ALLPOOLS: 1
+POOL: stratum+tcp://eth.suprnova.cc:5000, WALLET: Hudrolax.zeon, PSW: 7950, ESM: 3, ALLPOOLS: 1 
